@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nirmal Patel
-- 👀 I design and code attractive websites.
+- 👀 I design and code full stack websites.
 - 🌱 I’m Full-stack graduate developer and further studying Advance Software Development.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 To work together, flick me an email to patelnirmal17592@gmail.com
