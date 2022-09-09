@@ -21,7 +21,7 @@ Interested in collaboration?
 </h3>
 
 <h3> Want to know more? Flick me an email ✉, I will get back to you as fast 🏃 as possible </h3>
-<h3> 📪 <i>patelnirmal17592@gmail.com</i> </h3>
+<h3> 📪 <i><a href='mailto:patelnirmal17592@gmail.com'> patelnirmal17592@gmail.com</a></i> </h3>
 
 
 
