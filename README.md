@@ -6,7 +6,7 @@ What do I love? <p>👉 I love &#9829; to design and code 💻 full-stack web ap
 Interested in collaboration? <p>👉 I am happy to collaborate on any project 📑</p>
 What experience do you have in terms of developing?<p>👉 Well, I have been constantly learning📚 and building🏗 projects using latest set of technologies! Let me take you to look at technologies I work with as below, <hr>
 <ul>
-<li><b>Front-End:</b> HTML, CSS(Bootstrap, MUI, SASS), JavaScript(React) </li>
+<li><b>Front-End:</b> HTML, CSS(Bootstrap, MUI, SASS), JavaScript(React), TypeScript </li>
 <li><b>Back-End:</b> NodeJS, ExpressJS and PHP </li>
 <li><b>API: </b> RESTful APIs </li>
 <li><b>DataBase:</b> MySQL and MongoDB </li>
@@ -18,11 +18,3 @@ What experience do you have in terms of developing?<p>👉 Well, I have been con
 
 <h3> Want to know more? Flick me an email ✉, I will get back to you as fast 🏃 as possible </h3>
 <h3> 📪 <i><a href='mailto:patelnirmal17592@gmail.com'> patelnirmal17592@gmail.com</a></i> </h3>
-
-
-
-
-<!---
-patelnirmal17592/patelnirmal17592 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
