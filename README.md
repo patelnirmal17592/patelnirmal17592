@@ -18,3 +18,6 @@ What experience do you have in terms of developing?<p>👉 Well, I have been con
 
 <h3> Want to know more? Flick me an email ✉, I will get back to you as fast 🏃 as possible </h3>
 <h3> 📪 <i><a href='mailto:patelnirmal17592@gmail.com'> patelnirmal17592@gmail.com</a></i> </h3>
+Connect with me on LinkedIn: <a href='https://www.linkedin.com/in/iamnirmalpatel/'>Click here</a>
+
+<h3>Thank you!!</h3>
