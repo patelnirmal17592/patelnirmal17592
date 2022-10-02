@@ -4,7 +4,7 @@ Where am I? <p>👉 I am based in Auckland, but happy to be anywhere in beautifu
 What am I? <p>👉 I'm a <b><span style='color: red'>Full Stack graduate Developer</span></b> and further studying Advance Software Development at MissionReadyHQ.</p>
 What do I love? <p>👉 I love &#9829; to design and code 💻 full-stack web apps.</p>
 Interested in collaboration? <p>👉 I am happy to collaborate on any project 📑</p>
-What experience do you have in terms of developing?<p>👉 Well, I have been constantly learning📚 and building🏗 projects using latest set of technologies! Let me take you to look at technologies I work with as below, <hr>
+What experience do you have in terms of development?<p>👉 Well, I have been constantly learning📚 and building🏗 projects using latest set of technologies! Let me take you to look at technologies I work with as below, <hr>
 <ul>
 <li><b>Front-End:</b> HTML, CSS(Bootstrap, MUI, SASS), JavaScript(React), TypeScript </li>
 <li><b>Back-End:</b> NodeJS, ExpressJS and PHP </li>
