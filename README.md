@@ -7,7 +7,7 @@ Interested in collaboration? <p>👉 I am happy to collaborate on any project �
 What experience do you have in terms of development?<p>👉 Well, I have been constantly learning📚 and building🏗 projects using latest set of technologies! Let me take you to look at technologies I work with as below, <hr>
 <ul>
 <li><b>Front-End:</b> HTML, CSS(Bootstrap, MUI, SASS), JavaScript(React), TypeScript </li>
-<li><b>Back-End:</b> NodeJS, ExpressJS and PHP </li>
+<li><b>Back-End:</b> NodeJS, ExpressJS, GraphQL and PHP </li>
 <li><b>API: </b> RESTful APIs </li>
 <li><b>DataBase:</b> MySQL and MongoDB </li>
 <li><b>Cloud services:</b> AWS, Google Cloud and IBM Cloud</li>
@@ -15,7 +15,7 @@ What experience do you have in terms of development?<p>👉 Well, I have been co
 <li><b>Test: </b> Jest</li>
 </ul>
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,bootstrap,mui,javascript,react,typescript,nodejs,expressjs,php,git,jquery,mongodb,mysql,jest,figma,docker,aws,googlecloud)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,bootstrap,mui,javascript,react,typescript,nodejs,expressjs,graphql,php,git,jquery,mongodb,mysql,jest,figma,docker,aws,googlecloud)
 
 </p>
 
