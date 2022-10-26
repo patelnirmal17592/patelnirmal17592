@@ -15,7 +15,7 @@ What experience do you have in terms of development?<p>👉 Well, I have been co
 <li><b>Test: </b> Jest</li>
 </ul>
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,bootstrap,mui,javascript,react,typescript,nodejs,expressjs,graphql,php,git,jquery,mongodb,mysql,jest,figma,docker,aws,googlecloud)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,bootstrap,mui,javascript,angular,react,typescript,nodejs,expressjs,graphql,php,git,jquery,mongodb,mysql,jest,figma,docker,aws,googlecloud)
 
 </p>
 
