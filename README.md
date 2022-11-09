@@ -1,7 +1,7 @@
 Who am I? <h1>![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Hi+I'm+Nirmal+Patel) </h1>
 Where am I? <p>👉 I am based in Auckland, but happy to be anywhere in beautiful New Zealand 	
 &#127956;</p>
-What am I? <p>👉 I'm a <b><span style='color: red'>Full Stack graduate Developer</span></b> and further studying Advance Software Development at MissionReadyHQ.</p>
+What am I? <p>👉 I'm a <b>graduate Software Developer</b> and currently interning as a Software Developer at Digital Island (Spark group).</p>
 What do I love? <p>👉 I love &#9829; to design and code 💻 full-stack web apps.</p>
 Interested in collaboration? <p>👉 I am happy to collaborate on any project 📑</p>
 What experience do you have in terms of development?<p>👉 Well, I have been constantly learning📚 and building🏗 projects using latest set of technologies! Let me take you to look at technologies I work with as below, <hr>
