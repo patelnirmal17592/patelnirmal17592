@@ -16,7 +16,7 @@ What experience do you have in terms of development?<p>👉 Well, I have been co
 <li><b>Agile tools: </b> Azure DevOps</li>
 </ul>
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,bootstrap,mui,javascript,angular,react,typescript,nodejs,expressjs,graphql,php,git,jquery,mongodb,mysql,jest,figma,docker,aws,googlecloud,azure)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,bootstrap,mui,javascript,angular,react,typescript,nodejs,expressjs,graphql,git,jquery,mongodb,mysql,jest,figma,docker,aws,googlecloud,azure)
 
 </p>
 
