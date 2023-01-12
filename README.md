@@ -24,11 +24,11 @@ What experience do you have in terms of development?<p>👉 Well, I have been co
 <h3> 📪 <i><a href='mailto:patelnirmal17592@gmail.com'> patelnirmal17592@gmail.com</a></i> </h3>
 Connect with me on LinkedIn: <a href='https://www.linkedin.com/in/iamnirmalpatel/'>Click here</a>
 
-<h4>More details</h4>
+<!-- <h4>More details</h4>
 
 ![](https://github-readme-stats.vercel.app/api?username=patelnirmal17592&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=patelnirmal17592&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=patelnirmal17592&layout=compact) -->
 
 <p>Profile views counter:</p>
 
